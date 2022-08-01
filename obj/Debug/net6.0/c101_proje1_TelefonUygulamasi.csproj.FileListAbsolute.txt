@@ -1,0 +1,15 @@
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\bin\Debug\net6.0\c101_proje1_TelefonUygulamasi.exe
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\bin\Debug\net6.0\c101_proje1_TelefonUygulamasi.deps.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\bin\Debug\net6.0\c101_proje1_TelefonUygulamasi.runtimeconfig.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\bin\Debug\net6.0\c101_proje1_TelefonUygulamasi.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\bin\Debug\net6.0\c101_proje1_TelefonUygulamasi.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\obj\Debug\net6.0\c101_proje1_TelefonUygulamasi.csproj.AssemblyReference.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\obj\Debug\net6.0\c101_proje1_TelefonUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\obj\Debug\net6.0\c101_proje1_TelefonUygulamasi.AssemblyInfoInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\obj\Debug\net6.0\c101_proje1_TelefonUygulamasi.AssemblyInfo.cs
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\obj\Debug\net6.0\c101_proje1_TelefonUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\obj\Debug\net6.0\c101_proje1_TelefonUygulamasi.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\obj\Debug\net6.0\refint\c101_proje1_TelefonUygulamasi.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\obj\Debug\net6.0\c101_proje1_TelefonUygulamasi.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\obj\Debug\net6.0\c101_proje1_TelefonUygulamasi.genruntimeconfig.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje1_TelefonUygulamasi\obj\Debug\net6.0\ref\c101_proje1_TelefonUygulamasi.dll
